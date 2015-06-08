@@ -1,6 +1,11 @@
-# Summer 2015 >> Portugal Startup Bootcamp!
+# Summer 2015 >> Portugal Lean Startup Hack!
 
 > "#***Probably*** *the* ***Best Summer Code, Sun & Fun Experience of my life! Thanks!!***" ~ { *your name here* }
+
+![Portugal collage](http://thegirloutdoors.co.uk/wp-content/uploads/2014/09/karina-1024x926.jpg)
+
+![hackathon](https://cloud.githubusercontent.com/assets/194400/8040002/253c1fe4-0e05-11e5-8507-05fdb532632a.png)
+
 
 # Why?
 
@@ -30,7 +35,7 @@ You will be staying in a large lake-side house which catches the sun all morning
 + Hidden amongst trees, a 30 second walk from nature
 + 1 minute walk down to the lake
 + 20 min walk or 5 min boat ride to shops with essentials (fresh produce, drinks and snacks)
-+ 40 minute drive to Porto, the 'capital of the North'
++ 1h drive to Porto, the 'capital of the North'
 
 ### Batch 2 - August  [Monday 10th August - Sunday 23rd August] Beach, Pool &
 
@@ -84,7 +89,7 @@ There are *many* other awesome activities we can do:
 These will be voted on by the people who join in!
 
 
-## An MVP Like No Other
+## A Lean MVP (*Like No Other*)
 
 The MVP will be building a *discrete* (*modular*) feature
 for ***dwyl*** (***D***o ***W***hat ***Y***ou ***L***ove!)  
@@ -115,5 +120,7 @@ can refer back to it as portfolio work in the future (*and get nice "green squar
 + Web Components using a micro (4kb) *full-stack framework*
 + Search Engine Optimization (SEO)
 + Analytics
++ Brand Development
++ Customer Development
 + Multivariate Testing
 + Usability Testing with real people
