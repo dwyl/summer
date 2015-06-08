@@ -4,13 +4,13 @@
 
 # Why?
 
-+ Escape the city noise/smog, get some sunshine fresh air and tranquility!
++ Escape the city noise/smog, get some sunshine fresh air and tranquility
 + Learn how to build software products that solve real problems and people love using!
 + Spend time with great people
 
 # Who?
 
-Ines, Nelson, Eduardo (Nelson's cousin) and a bunch of *awesome* people who
+Inês, Nelson, Eduardo (Nelson's cousin) and a bunch of *awesome* people who
 love to solve challenging real-world problems using code!
 
 # What?
@@ -19,17 +19,18 @@ A Startup (Ideation, Product Development & Coding) Bootcamp Like No Other!
 
 ## Location - Sun, Fresh Air & Fresh Food *Guaranteed*
 
-### Batch 1 - July  [ @iteles insert dates ] Mountains, Lake & Forrest
+### Batch 1 - July  [ @iteles insert dates ] Mountains, Lake & Forest
 
 ![geres-panorama](https://cloud.githubusercontent.com/assets/194400/8037829/f4ad88f2-0df7-11e5-8590-092cf12a0c0f.png)
 
-A short drive from Porto is the Geres National Park.
-You will be staying in a large ...
+A short drive from Porto is the Peneda-Geres National Park.
+You will be staying in a large lake-side house which catches the sun all morning and has a private patch of grass by the lake.
 
 + Decent Internet
-+ 1 Minute walk from
-+ 10 min walk or 5 min to shops with essentials (fresh produce, drinks and snacks)
-+
++ Hidden amongst trees, a 30 second walk from nature
++ 1 minute walk down to the lake
++ 20 min walk or 5 min boat ride to shops with essentials (fresh produce, drinks and snacks)
++ 40 minute drive to Porto, the 'capital of the North'
 
 ### Batch 2 - August  [ @iteles insert dates ] Beach, Pool &
 
@@ -71,7 +72,7 @@ Both locations are next to forests so the air quality is good.
 There are *many* other awesome activities we can do:
 
 + ALL the Board Games you could ever hope for! [ @iteles to list games? ]
-+ Snooker, Foosball, Pingpong, Darts, etc
++ Snooker, Foosball, Pingpong, Darts, etc (*batch 1 only*)
 + Climbing
 + Kayaking
 + Yoga/Pilates
