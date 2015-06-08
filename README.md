@@ -19,7 +19,7 @@ A Startup (Ideation, Product Development & Coding) Bootcamp Like No Other!
 
 ## Location - Sun, Fresh Air & Fresh Food *Guaranteed*
 
-### Batch 1 - July  [ @iteles insert dates ] Mountains, Lake & Forest
+### Batch 1 - July  [Saturday 11th July - Friday 24th July (morning)] Mountains, Lake & Forest
 
 ![geres-panorama](https://cloud.githubusercontent.com/assets/194400/8037829/f4ad88f2-0df7-11e5-8590-092cf12a0c0f.png)
 
@@ -32,7 +32,7 @@ You will be staying in a large lake-side house which catches the sun all morning
 + 20 min walk or 5 min boat ride to shops with essentials (fresh produce, drinks and snacks)
 + 40 minute drive to Porto, the 'capital of the North'
 
-### Batch 2 - August  [ @iteles insert dates ] Beach, Pool &
+### Batch 2 - August  [Monday 10th August - Sunday 23rd August] Beach, Pool &
 
 ![carcavelos-beach](https://cloud.githubusercontent.com/assets/194400/8037756/a6a55252-0df7-11e5-9980-9ec9fe4b3a68.jpeg)
 
