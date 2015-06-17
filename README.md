@@ -1,6 +1,9 @@
-# Summer 2015 >> Portugal Lean Startup Hack!
+# Summer of DWYL 2015 >> Portugal
 
-> "#***Probably*** *the* ***Best Summer Code, Sun & Fun Experience of my life! Thanks!!***" ~ { *your name here* }
+> "#***Probably*** *the* ***Best Summer of Code, Sun & Fun Experience of my life! Thanks!!***" ~ { *your name here* }
+
+
+>"***Great People, Awesome Location, So MUCH to Learn, See & Do! We'll be back again next year!***" ~ { *your name here* }
 
 ![Portugal collage](http://thegirloutdoors.co.uk/wp-content/uploads/2014/09/karina-1024x926.jpg)
 
