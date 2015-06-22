@@ -1,13 +1,13 @@
 **Location Specific:**
 + [x] [Span of time that accommodation is available](dates)
 + [x] [Airport transfers](#airport-transfers)
-+ [ ] Food purchasing arrangements/locations
++ [x] [Food purchasing arrangements/locations](#food-shopping)
 + [ ] Activities and the surrounding area (weekends and afternoons off)
-+ [ ] Recommended clothing **[partly covered in useful-info.md, needs finalising]**
++ [x] [Recommended clothing](#recommended-clothing)
 
 **General:**
 + [ ] Sun Screen/Cream (buy/bring/wear) at all times to avoid nasty burns!
-+ [ ] Cash (*Euros*) **[partly covered in useful-info.md, needs updating]**
++ [x] [Cash (*Euros*)](#cash)
 + [ ] Internet conditions
 + [ ] Freelance agreements
 + [ ] Structure of work
@@ -30,24 +30,49 @@ They are Porto airport <-> the door of our house and **one way**:
 It's _possible_ by public transport but will take a few hours, involve various types of transport (tube, train, bus) and won't be particularly easy to navigate (you'll get English speakers in the train stations, but unlikely on buses!).
 
 ###Food shopping
-The closest full on supermarket (probably the size of 2 Tesco Metros) is a 20 minute drive from the house. You won't find much specialty stuff here (out of the ordinary vegetables, superfoods or a huge organics section are pipe dreams) but all standard supermarket stuff and in-season fruit and vegetables are all available.        
-5 minutes drive from the house is a little grocery store with every day essentials.
+The **closest full on supermarket (probably the size of 2 Tesco Metros) is a 20 minute drive from the house**. You won't find much specialty stuff here (out of the ordinary vegetables, superfoods or a huge organics section are pipe dreams) but all standard supermarket stuff and in-season fruit and vegetables are all available.        
+There's a **little grocery store with every day essentials** 5 minutes drive from the house.
 
-//TODO Add recommendations - half week shop when you arrive (otherwise we'll have no space in the fridge), then another shop mid-week
+**Fresh bread** is brought to the house every morning ([this kind](http://ameadella.com/uploads/products/img_0096.jpg) and [this kind](https://charme-assets.s3-eu-west-1.amazonaws.com/items/images/000/000/021/normal/pao2.jpg?1383036053) - and [this on Sundays](http://www.paonaporta.pt/images/pnp_images/paes/rosca.jpg)) - we put in the order for the next day.
+
+We recommend:
++ **Plan ahead a few meals** - we can plan meals together when you arrive but there'll be a supermarket trip to stock up on your way from the airport.
++ **Only buy half a week of fresh groceries** or they won't fit in the fridge!!
+  + **Same goes for frozen items**
+  + We'll do another shop mid-week once we have a better idea of space and food requirements
+  + Remember: **don't buy bread** unless there's some specialty bread you're in love with
++ There's a barbeque, so feel free to include that in the plans (always relatively easy but takes a while to get going)
++ You'll want some **snacks** - swimming makes you hungy!
+
+_**Dinner on the Saturday is on us, so don't worry about the day you arrive!**_
 
 
-+ [ ] **Recommended clothing**
-  + [ ] Sun Glasses
-  + [ ] Hats (*preferably* ***sombreros***)
-  + [ ] Flip Flops or sandals (*expect these to get wet*!)
-  + [ ] Comfortable walking shoes (*expect to walk*!)
-  + [ ] Old Jeans (*you don't mind wrecking*)
-  + [ ] Shorts/Skirts
-  + [ ]
-+ [ ] **Sun Screen)**/Cream (buy/bring/wear) at all times to avoid nasty burns! (*tip: buy @Airport Boots after security checks*)
-+ [ ] ***Cash*** (*Euros*) You will probably need €150 for 2 weeks (*roughly £110*)
-We *recommend* you ***order online for the best exchange rates***, but if you forget, use https://www.iceplc.com/ ("*click & collect*)
-    + [ ] visit the page for the airport you are flying out from and print off the "voucher" (*the web page*) - make a note of where the ice counter is in the airport.
-    + [ ] take the print out with you and exchange your pounds for euros at the airport.
+###Recommended clothing
+We expect everything to be very casual (we're pretty far from anywhere _fancy_) and you'll probably end up **swimming or in the water pretty much every day**. Remember to bring clothing for the other activities you may want to participate in. //TODO add activities info
 
-Note: any euros you have left over at the end of your trip we will buy from you at the best exchange rate.
+It gets a little colder at night, so you'll want to bring something to throw over the top of what you're wearing. There may be a couple of foggy days!
+
+**Don't forget to bring:**
+  + Sun glasses
+  + Hats (_preferably_ ***sombreros***)
+  + Flip-flops or sandals (_expect these to get wet_)
+  + Comfortable walking shoes
+  + A set of closed everyday shoes (in case the weather turns)
+  + Old Jeans/trousers (_that you don't mind roughing up_)
+  + Swimsuits 
+  + A couple of jumpers/cardigans/something to throw over your clothes when it gets cold
+  + **Sun Screen** (buy/bring/wear) at all times to avoid nasty burns! (_tip: buy @Airport Boots after security checks to avoid carryon liquid limits_)
+
+
+
+###Cash
+We _recommend_ you _**order online for the best exchange rates**_, but if you forget, use https://www.iceplc.com/ ("click & collect")
++ Visit the page for the airport you are flying out from and print off the "voucher" (_the web page_) - make a note of where the ice counter is in the airport.
++ Take the print out with you and exchange your GBP for EUR at the airport.
+
+_Note: If you have any euros left at the end of your trip, we'll happily buy them back from you._
+
+**Possible spends:**
++ Food for the week(s)
++ Airport transfers
++ Money for activities //TODO add relevant information!
