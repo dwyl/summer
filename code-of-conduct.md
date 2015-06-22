@@ -2,7 +2,7 @@
 
 <img align="right" src="http://social.beefeater.co.uk/assets/family-portrait/img/explanation/mr-happy.png"/>
 
-0. The [***Golen Rule***](https://en.wikipedia.org/wiki/Golden_Rule): treat others as one would like others to treat oneself.
+0. The [***Golden Rule***](https://en.wikipedia.org/wiki/Golden_Rule): treat others as one would like others to treat oneself.
 
 1. **Be happy.** We're surrounding ourselves with sun, sea/forest, fresh/healthy food and great people so good vibes are mandatory (read: almost unavoidable).
 
