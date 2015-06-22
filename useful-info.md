@@ -1,14 +1,16 @@
 **Location Specific:**
 + [x] [Span of time that accommodation is available](dates)
++ [x] [Internet conditions](#internet-conditions)
 + [x] [Airport transfers](#airport-transfers)
 + [x] [Food purchasing arrangements/locations](#food-shopping)
-+ [ ] Activities and the surrounding area (weekends and afternoons off)
 + [x] [Recommended clothing](#recommended-clothing)
+
++ [ ] Activities and the surrounding area (weekends and afternoons off)
+
 
 **General:**
 + [ ] Sun Screen/Cream (buy/bring/wear) at all times to avoid nasty burns!
 + [x] [Cash (*Euros*)](#cash)
-+ [ ] Internet conditions
 + [ ] Freelance agreements
 + [ ] Structure of work
 
@@ -16,6 +18,10 @@
 ###Location
 The house is situated on the lake formed by the [Barragem da Caniçada](https://www.google.co.uk/maps?q=barragem+da+cani%C3%A7ada&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.96339352,d.bGg&biw=1536&bih=928&dpr=2&um=1&ie=UTF-8&sa=X&ei=Z5-EVbahK8TW7AbH7KuwCA&ved=0CAYQ_AUoAQ), a dam crossing the Cávado River.    
 [Here it is on a map](https://www.google.co.uk/maps/place/41%C2%B039'44.9%22N+8%C2%B011'18.9%22W/@41.6615913,-8.1873262,14z/data=!4m2!3m1!1s0x0d251e5a005f7d79:0xa51e530a1036cba5).
+
+###Internet conditions
+It's a bit remote, so the internet connection isn't particularly amazing. With so many of us there at the same time, we'll have to make sure that there is **no streaming (music or video) or bittorrenting** so people can work.     
+Please sort yourself out with an **offline playlist** before you go!
 
 ###Dates
 The dates are quite tight on this one and the house is really only available for the dates in question. We have to **leave the house in the morning** of Friday 24th, so we don't expect this to be a work day.    
@@ -55,6 +61,7 @@ It gets a little colder at night, so you'll want to bring something to throw ove
 **Don't forget to bring:**
   + Sun glasses
   + Hats (_preferably_ ***sombreros***)
+  + Headphones! (we [respect each other's levels of noise tolerance](./code-of-conduct.md))
   + Flip-flops or sandals (_expect these to get wet_)
   + Comfortable walking shoes
   + A set of closed everyday shoes (in case the weather turns)
