@@ -85,7 +85,7 @@ _Paid activities:_
 + Quad biking
 + Guided forest trail hiking
 + Foosball at the café (where the little grocery store is)
-+ Rent a ride into Braga, the nearest 'proper city' and explore (though there's a lot more to see in Porto)
++ Rent a ride into [Braga](http://www.theguardian.com/travel/2014/may/10/braga-portugal-city-break), the nearest 'proper city' and explore (though there's [even more to see](http://www.theguardian.com/travel/2014/aug/24/travel-tips-rua-de-miguel-bombarda-porto-morecambe-bay-ibiza) in [Porto](http://www.theguardian.com/travel/2011/nov/06/travel-portugal-vintage-porto))
 
 There isn't anywhere to 'go out' to at night really apart from a little bar/café in the marina which is only accessible by car and not very exciting!
 
