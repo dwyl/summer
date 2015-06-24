@@ -1,22 +1,19 @@
-**Location Specific:**
-+ [x] [Span of time that accommodation is available](dates)
-+ [x] [Internet conditions](#internet-conditions)
-+ [x] [Airport transfers](#airport-transfers)
-+ [x] [Food purchasing arrangements/locations](#food-shopping)
-+ [x] [Recommended clothing](#recommended-clothing)
-
-+ [ ] Activities and the surrounding area (weekends and afternoons off)
-
-
 **General:**
-+ [ ] Sun Screen/Cream (buy/bring/wear) at all times to avoid nasty burns!
 + [x] [Cash (*Euros*)](#cash)
 + [ ] Freelance agreements
 + [ ] Structure of work
 
+**Location Specific:**
++ [Span of time that accommodation is available](dates)
++ [Internet conditions](#internet-conditions)
++ [Airport transfers](#airport-transfers)
++ [Food purchasing arrangements/locations](#food-shopping)
++ [Recommended clothing](#recommended-clothing)
++ [Activities and the surrounding area](#activities) (weekends and afternoons off)
+
 ##Lakehouse [11th -24th July]
 ###Location
-The house is situated on the lake formed by the [Barragem da Caniçada](https://www.google.co.uk/maps?q=barragem+da+cani%C3%A7ada&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.96339352,d.bGg&biw=1536&bih=928&dpr=2&um=1&ie=UTF-8&sa=X&ei=Z5-EVbahK8TW7AbH7KuwCA&ved=0CAYQ_AUoAQ), a dam crossing the Cávado River.    
+The house is situated on the lake formed by the [Barragem da Caniçada](https://www.google.co.uk/maps?q=barragem+da+cani%C3%A7ada&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.96339352,d.bGg&biw=1536&bih=928&dpr=2&um=1&ie=UTF-8&sa=X&ei=Z5-EVbahK8TW7AbH7KuwCA&ved=0CAYQ_AUoAQ), a dam crossing the Caldo River.    
 [Here it is on a map](https://www.google.co.uk/maps/place/41%C2%B039'44.9%22N+8%C2%B011'18.9%22W/@41.6615913,-8.1873262,14z/data=!4m2!3m1!1s0x0d251e5a005f7d79:0xa51e530a1036cba5).
 
 ###Internet conditions
@@ -54,7 +51,7 @@ _**Dinner on the Saturday is on us, so don't worry about the day you arrive!**_
 
 
 ###Recommended clothing
-We expect everything to be very casual (we're pretty far from anywhere _fancy_) and you'll probably end up **swimming or in the water pretty much every day**. Remember to bring clothing for the other activities you may want to participate in. //TODO add activities info
+We expect everything to be very casual (we're pretty far from anywhere _fancy_) and you'll probably end up **swimming or in the water pretty much every day**. Remember to bring clothing for [any other activities](#activities) you may want to participate in.
 
 It gets a little colder at night, so you'll want to bring something to throw over the top of what you're wearing. There may be a couple of foggy days!
 
@@ -70,7 +67,27 @@ It gets a little colder at night, so you'll want to bring something to throw ove
   + A couple of jumpers/cardigans/something to throw over your clothes when it gets cold
   + **Sun Screen** (buy/bring/wear) at all times to avoid nasty burns! (_tip: buy @Airport Boots after security checks to avoid carryon liquid limits_)
 
+###Activities
+These will be voted on by the people who join in! 
 
+_Free activities:_
++ Snooker, ping pong and darts at the house
++ Canoeing (we have a couple of canoes at the house)
++ There are some gorgeous little waterfalls with a ton of rocks to climb and we'll try to make it out there at least once for a picnic
++ Quadcopter ("drone") flying (see: https://github.com/dwyl/summer-2015/issues/4)
++ General walking around/jogging/exploring
++ Reading/relaxing (we'll have a little library of tech books on hand)
++ Swimming in the lake
++ All. The. Board Games. (and cards)
+
+_Paid activities:_
++ [These guys](http://www.aguamontanha.com/en/prices) who rent all forms of water sports equipment and also take people out on water skiing/wakeboarding lessons and on tubes/buoys are a short boat ride away 
++ Quad biking
++ Guided forest trail hiking
++ Foosball at the café (where the little grocery store is)
++ Rent a ride into Braga, the nearest 'proper city' and explore (though there's a lot more to see in Porto)
+
+There isn't anywhere to 'go out' to at night really apart from a little bar/café in the marina which is only accessible by car and not very exciting!
 
 ###Cash
 We _recommend_ you _**order online for the best exchange rates**_, but if you forget, use https://www.iceplc.com/ ("click & collect")
@@ -82,4 +99,4 @@ _Note: If you have any euros left at the end of your trip, we'll happily buy the
 **Possible spends:**
 + Food for the week(s)
 + Airport transfers
-+ Money for activities //TODO add relevant information!
++ Money for [activities](#activities)
