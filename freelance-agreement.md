@@ -8,7 +8,7 @@ This agreement has been crafted to **_clarify_ the intellectual property questio
 _**In short**: What you contribute is **your own work**. You can still **keep using it for anything** you like and once it's part of dwyl's repositories, **so can we**. Remember that all our code is **open source so other people can use it too!**_
 
 
-##Why have this agreement?
+## Why have this agreement?
 
 This agreement is for _your_ peace of mind as a contributor (we want to make sure you have no doubts about what will happen to your contribution) as well as for the protection of **dwyl Ltd** and others using _**the codebase**_.
 
@@ -38,37 +38,40 @@ b. **You can use your contribution for any other purpose** including other open 
 
 You acknowledge and agree that:
 
-1. **Work is tracked _exclusively_ in GitHub issues**
+1. **Work is tracked _exclusively_ on GitHub issues**. If you discuss something related to a story/feature/task _verbally_, always ensure it is captured in a comment in the GitHub issue for posterity. (_the person who ends up reviewing the feature/code might not be in the same country as you!_)
 2. Each task should have its own GitHub issue and be clearly related to a _component_ of the **dwyl app**;
 3. Tasks _**must**_ **be _estimated_** (_in minutes - not "points" - by everyone present and an average recorded as the estimate_) **_before_ being _started_**.
-4. Once you have completed the task, include the link to the GitHub issue in the commit message to ensure traceability and simplify code review.
+4. _**Always**_ track your time while you are _doing_ the task. Failure to track your time, will result in _forfeit_ of payment (_see below_).
+5. _**Always**_ include include the **link to** the **GitHub issue** in the **commit messages** to _ensure traceability_ and simplify code review.
+5. Your work (on a story/feature/task) is _**not**_ "_**done**_" _until_ it meets the _**definition of done**_ (_see below_).
 
-## Definition of _Done_?
+
+## Definition of "_Done_"
 
 > TBD: https://github.com/dwyl/start-here/issues/33
 
 
-## The financials
+## Financial Consideration
 
-As one of the select group of paid freelancers working on this project, you're lucky enough to get _another_ section to read through! The dates below apply only to this 'The financials' section of the agreement.
+As one of the select group of paid freelancers working on this project, you're lucky enough to get _another_ section to read through! The dates below apply only to this 'Financial Consideration' section of the agreement.
 
 We both agree to the following payment terms and schedule:
 
-+ You will be working with dwyl as a freelance; contractor from **[date x]** to **[date y]** based in Portugal, where accommodation will be provided for you
++ You will be working with dwyl Ltd. as a freelance contractor from **[date x]** to **[date y]** based in Portugal, where accommodation will be provided for you.
 + You will work **anywhere up to 6 (six) hours a day**
-(_though you can certainly work more with prior agreement and on pre-agree tasks_) - we fully expect you to spend the rest of the day relaxing,
+(_though you can certainly work more with prior agreement and on pre-agreed/defined tasks_) - we fully expect you to spend the rest of the day relaxing,
 learning and enjoying your surroundings (and we hope that
 you'll be doing what you love every day);
 + You will **track your working time** meticulously and allocate your time a specific pre-agreed and estimate task;
 
 
 + **dwyl Ltd.** will pay you at the rate of **£ X GBP per hour**;
-+ You will **invoice us within 7 days** of finishing the work (but preferably asap!) - don't forget to include your bank details :)
-+ We will **pay you within 7 days** of receiving your invoice.
++ Please **invoice us within 7 days** of finishing the work (but preferably asap!) - don't forget to include your bank details :)
++ We will **pay you within 7 working days** of receiving your invoice.
 
 ## The License
 
-All Code in the **dwyl app** is released under the **GNU General Public License Version 2 License (_GPL V.2_)** (_unless otherwise stated_).
+All Code in the **dwyl app** is released under the **GNU General Public License Version 2 License ("_GPL V.2_")** (_unless otherwise stated_).
 **GPL V2** is the same License used by Linux, Git, WordPress, Drupal, Audacity and _many_ other popular/successful open source projects.
 If you are unfamiliar with this license, please read:
 https://github.com/dwyl/intellectual-property
