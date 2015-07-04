@@ -37,7 +37,7 @@ You will be staying in a large lake-side house which catches the sun all morning
 + 20 min walk or 5 min boat ride to shops with essentials (fresh produce, drinks and snacks)
 + 1h drive to Porto, the 'capital of the North'
 
-### Batch 2 - August  [Monday 10th August - Sunday 23rd August] Beach, Pool &
+### Batch 2 - August  [Monday 10th August - Sunday 23rd August] Beach, Pool & Beautiful City
 
 ![carcavelos-beach](https://cloud.githubusercontent.com/assets/194400/8037756/a6a55252-0df7-11e5-9980-9ec9fe4b3a68.jpeg)
 
@@ -124,3 +124,8 @@ can refer back to it as portfolio work in the future (*and get nice "green squar
 + Customer Development
 + Multivariate Testing
 + Usability Testing with real people
+
+### Pre-Trip Reading
+
++ The Mythical Man-Month: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+(*why adding more people to a project can make it slower...*)
