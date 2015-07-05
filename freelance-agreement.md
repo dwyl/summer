@@ -27,8 +27,10 @@ As a **contributor**, you hereby agree that:
 2. By committing your code into a dwyl-owned repository, **you grant worldwide, and irrevocable but _non-exclusive_ copyright with no further consideration** to dwyl;
 3. This is an open source project, so in addition to **dwyl** using your (and all of our) contributions, the codebase may also be used by other people (3rd parties) without further consent or consideration;
 + Your contribution **does not grant you a _claim_ to any earnings** (past, present or future) of **dwyl** or any other individuals or companies that use your code;
++ You will follow the [dwyl code of conduct](https://github.com/dwyl/code-of-conduct);
 + You **do not have any _obligation_ to provide support for your code**, however you are encouraged to remain a contributor/supporter for as long you find it personally beneficial/rewarding;
-+ If you use the original works you contribute to the dwyl codebase in future projects we ask that you provide **attribution** back to the project where you originally made the contribution.
++ If you use the original works you contribute to the dwyl codebase in future projects we ask that you provide **attribution** back to the project where you originally made the contribution;
++ You are fully responsible for your own health and safety.
 
 **We (_dwyl_)** agree to the following:
 
