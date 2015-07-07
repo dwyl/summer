@@ -5,7 +5,6 @@
 
 >"***Great People, Awesome Location, So MUCH to Learn, See & Do! We'll be back again next year!***" ~ { *your name here* }
 
-![Portugal collage](http://thegirloutdoors.co.uk/wp-content/uploads/2014/09/karina-1024x926.jpg)
 
 # Why?
 
