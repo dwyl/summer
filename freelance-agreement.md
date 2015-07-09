@@ -28,6 +28,7 @@ As a **contributor**, you hereby agree that:
 3. This is an open source project, so in addition to **dwyl** using your (and all of our) contributions, the codebase may also be used by other people (3rd parties) without further consent or consideration;
 + Your contribution **does not grant you a _claim_ to any earnings** (past, present or future) of **dwyl** or any other individuals or companies that use your code;
 + You will follow the [dwyl code of conduct](https://github.com/dwyl/code-of-conduct);
++ You will follow the structure set out in dwyl's [structure of work](/structure-of-work.md) document on **tracking your work** and understanding **when your work is considered to be complete**;
 + You **do not have any _obligation_ to provide support for your code**, however you are encouraged to remain a contributor/supporter for as long you find it personally beneficial/rewarding;
 + If you use the original works you contribute to the dwyl codebase in future projects we ask that you provide **attribution** back to the project where you originally made the contribution;
 + You are fully responsible for your own health and safety.
@@ -36,26 +37,6 @@ As a **contributor**, you hereby agree that:
 
 a. **We will ensure that you are listed as a contributor** wherever your **original work** has been used; there will be a permanent record on Github but should you choose to exclude yourself from the list of contributors on the dwyl _website_ (where we will add a link to your preferred online profile), please notify us by raising an issue on: https://github.com/dwyl/dwyl.github.io/issues  
 b. **You can use your contribution for any other purpose** including other open source projects, provided you communicate clearly with the owners/maintainers of those projects where/when you produced the "**original work**" and provide **attribution** to that effect.
-
-
-
-## Tracking Work
-
-You acknowledge and agree that:
-
-1. **Work is tracked _exclusively_ on GitHub issues**;
-+ Each task should have its own GitHub issue and be clearly related to a _component_ of the **dwyl app**;
-+ If you discuss something related to a story/feature/task _verbally_, always ensure it is captured in a comment in the GitHub issue for posterity; we favour full transparency and as much detail/context as possible in the issue is always better;
-+ Tasks _**must**_ **be _estimated_** (_in minutes - not "points" - by everyone present and an **average recorded** as the estimate_) **_before_ being _started_**;
-+ _**Always**_ track your time while you are _doing_ the task. Failure to track your time, will result in _forfeit_ of payment (_see below_).
-+ _**Always**_ include the **link to** the **GitHub issue** in the **commit messages** to _ensure traceability_ and to simplify code review;
-+ Your work (on a story/feature/task) is _**not**_ "_**done**_" _until_ it meets the _**definition of done**_ (_see below_).
-
-
-## Definition of "_Done_"
-
-> TBD: https://github.com/dwyl/start-here/issues/33
-
 
 ## Financial Consideration
 
@@ -124,7 +105,7 @@ If you agree, sign, print your name and date below please.
 ## Terms/Definitions Used in This Agreement
 
 + "_**The dwyl Codebase**_", "_**the codebase**_" and "_**the code**_" (*used interchangeably*) include all computer code including tests, functions/methods, modules and documentation produced - anything that is added to any dwyl-owned repositories.
-+ "**original work_**" is work which you have produced in the course of performing a task or building a feature for the _**dwyl app**_.
++ "_**original work**_" is work which you have produced in the course of performing a task or building a feature for the _**dwyl app**_.
 _Please **do not**_ "_**copy paste**_" _**code from anywhere**_ - always write code from scratch to ensure you are creating "original work".
 + "_**dwyl app**_" - the dwyl application or "app" is the collection of code including any module or learning material(s).
 + "_**dwyl ltd.**_" or "_**dwyl**_" (used interchangeably to refer to the same entity, _dwyl ltd._) - dwyl ltd. is a Limited Company, company number 09525434, incorporated in England & Wales on 2nd April 2015 for the purpose of building software to aid people in pursuing the activities they love.
