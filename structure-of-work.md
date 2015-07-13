@@ -15,7 +15,7 @@ You acknowledge and agree that:
 We will keep adding detail to this as we gain understanding of any ambiguities that may arise.
 
 For clarity, a task will not be considered to be complete until all these items can be checked off.
-- [ ] Time to be taken for the task was estimated and approved by @nelsonic or @iteles
+- [ ] Time to be taken for the task was estimated and agreed by all present
 - [ ] Actual time taken for the task was recorded
 - [ ] All tests pass
 - [ ] 100% test coverage
