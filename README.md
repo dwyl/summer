@@ -2,9 +2,11 @@
 ![summer-of-code](https://cloud.githubusercontent.com/assets/194400/8201159/da7fae86-14c5-11e5-83d5-a19bf2759d79.png)
 > "#***Probably*** *the* ***Best Summer of Code, Sun & Fun Experience of my life! Thanks!!***" ~ { *your name here* }
 
-
 >"***Great People, Awesome Location, So MUCH to Learn, See & Do! We'll be back again next year!***" ~ { *your name here* }
 
+<br/>
+<a style="display:inline" href="https://gitter.im/dwyl/team-nature"><img src="https://img.shields.io/badge/team--nature-join%20gitter%20chat-green.svg"></a>
+[![team-city-gitter-chat-badge](https://img.shields.io/badge/team--city-join%20gitter%20chat-green.svg)](https://gitter.im/dwyl/team-city)
 
 # Why?
 
