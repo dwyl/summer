@@ -1,15 +1,18 @@
-**General:**
-+ [x] [Cash (*Euros*)](#cash)
+**General**
++ [Cash (*Euros*)](#cash)
 
 **Team City**    [![team-city-gitter-chat-badge](https://img.shields.io/badge/team--city-join%20gitter%20chat-green.svg)](https://gitter.im/dwyl/team-city)
-+ [x] [Span of time that accommodation is available](#dates)
-+ [x] [Internet conditions](#internet-conditions)
-+ [x] [Airport transfers](#airport-transfers)
-+ [x] [Food purchasing arrangements/locations](#food-shopping)
-+ [x] [Recommended clothing](#recommended-clothing)
-+ [x] [Activities and the surrounding area](#activities) (weekends and afternoons off)
++ [Location](#location-1)
++ [Span of time that accommodation is available](#dates-1)
++ [Internet conditions](#internet-conditions-1)
++ [Airport transfers](#airport-transfers-1)
++ [Public transport](#public-transport)
++ [Food purchasing arrangements/locations](#food-shopping-1)
++ [Recommended clothing](#recommended-clothing-1)
++ [Activities and the surrounding area](#activities-1)
 
-**Team Nature** <a style="display:inline" [![team-nature-gitter-chat-badge](https://img.shields.io/badge/team--nature-join%20gitter%20chat-green.svg)](https://gitter.im/dwyl/team-nature)
+**Team Nature** [![team-nature-gitter-chat-badge](https://img.shields.io/badge/team--nature-join%20gitter%20chat-green.svg)](https://gitter.im/dwyl/team-nature)
++ [Location](#location)
 + [Span of time that accommodation is available](#dates)
 + [Internet conditions](#internet-conditions)
 + [Airport transfers](#airport-transfers)
