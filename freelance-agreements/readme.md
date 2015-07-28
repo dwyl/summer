@@ -1,5 +1,5 @@
 #How do I sign the agreement?
-We ask that you sign the agreement digitally and email it to us. Here's how.
+We ask that you sign the agreement **digitally** and email it to us. Here's how.
 
 ##On Mac
 1. Open the agreement in **Preview**.
