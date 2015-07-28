@@ -1,7 +1,16 @@
 #How do I sign the agreement?
 We ask that you sign the agreement **digitally** and email it to us. Here's how.
 
-##On Mac
+##Choosing the correct agreement to sign
+The text of the freelance agreement can be found in the [freelance-agreement.md](https://github.com/dwyl/summer-2015/blob/master/freelance-agreements/freelance-agreement.md) file.
+
+You will also notice that there are a number of **PDFs** in this sub-directory. The only difference between these and `freelance-agreement.md` is that the **_dates_** and **_rate per hour_** in the _Financial Consideration_ section have already been added to the PDFs for your convenience.
+
+Each PDF starts with a date stamp in the format _'YYYYMMDD'_ so please download the appropriate one for the time you'll spend with us and double-check the details are correct.
+
+##Signing the agreement
+
+###On Mac
 1. Open the agreement in **Preview**.
 + Scroll down to the _Signature_ area.
 + **To add text**:
@@ -20,7 +29,7 @@ We ask that you sign the agreement **digitally** and email it to us. Here's how.
   + Go to _Tools > Annotate > Signature_
   + Click on the one you want to use and drag it to the location you need
   
-##On Windows/Linux
+###On Windows/Linux
 We need help putting the instructions for these together! https://github.com/dwyl/summer-2015/issues/35
 
 
