@@ -29,7 +29,9 @@ Each PDF starts with a date stamp in the format _'YYYYMMDD'_ so please download 
   + Go to _Tools > Annotate > Signature_
   + Click on the one you want to use and drag it to the location you need
   
-###On Windows/Linux
+###On Ubuntu
 We need help putting the instructions for these together! https://github.com/dwyl/summer-2015/issues/35
 
-
+###On Windows
+On Windows, you can just use _Adobe Reader_:
+http://www.howtogeek.com/164668/how-to-electronically-sign-documents-without-printing-and-scanning-them/
