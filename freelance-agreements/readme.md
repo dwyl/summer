@@ -30,7 +30,15 @@ Each PDF starts with a date stamp in the format _'YYYYMMDD'_ so please download 
   + Click on the one you want to use and drag it to the location you need
   
 ###On Ubuntu
-We need help putting the instructions for these together! https://github.com/dwyl/summer-2015/issues/35
+_dwylers [@jasonspd](https://github.com/Jasonspd) and [@anniva](https://github.com/anniva) have recommended this approach in [issue #35](https://github.com/dwyl/summer-2015/issues/35)._    
+
+1. Using the Ubuntu Software Centre, download and install [Xournal](https://apps.ubuntu.com/cat/applications/precise/xournal/)
+![xournal-ubuntu](https://cloud.githubusercontent.com/assets/4185328/9004130/56e276c6-376b-11e5-8116-db0102c44c5d.png)
+
++ Go to _File > Annotate PDF_ and add your signature, name and date to the PDF
+
++ Go to _File > Export to PDF_ and save the annotated PDF
+![xournal-ubuntu-annotate-pdf](https://cloud.githubusercontent.com/assets/4185328/9004750/ab7e5574-3770-11e5-8811-4ed845f40896.png)
 
 ###On Windows
 On Windows, you can just use _Adobe Reader_:
