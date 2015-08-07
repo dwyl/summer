@@ -28,7 +28,7 @@ As a **contributor**, you hereby agree that:
 3. This is an open source project, so in addition to **dwyl** using your (and all of our) contributions, the codebase may also be used by other people (3rd parties) without further consent or consideration;
 + Your contribution **does not grant you a _claim_ to any earnings** (past, present or future) of **dwyl** or any other individuals or companies that use your code;
 + You will follow the [dwyl code of conduct](https://github.com/dwyl/code-of-conduct);
-+ Your work will be considered complete and ready for review when it has met the conditions set out in [dwyl's definition of done](https://github.com/dwyl/definition-of-done);
++ Your contribution will only be considered complete and ready for review when it has met the conditions set out in [dwyl's definition of done](https://github.com/dwyl/definition-of-done);
 + You **do not have any _obligation_ to provide support for your code**, however you are encouraged to remain a contributor/supporter for as long you find it personally beneficial/rewarding;
 + If you use the original works you contribute to the dwyl codebase in future projects we ask that you provide **attribution** back to the project where you originally made the contribution;
 + You are fully responsible for your own health and safety.
