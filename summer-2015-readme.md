@@ -1,6 +1,4 @@
-# DWYL Summer 2016
-
-#TODO
+# Summer of DWYL 2015 >> Portugal
 ![summer-of-code](https://cloud.githubusercontent.com/assets/194400/8201159/da7fae86-14c5-11e5-83d5-a19bf2759d79.png)
 > "#***Probably*** *the* ***Best Summer of Code, Sun & Fun Experience of my life! Thanks!!***" ~ { *your name here* }
 
@@ -12,38 +10,22 @@
 
 # Why?
 
-+ Escape the city noise/smog, get some sunshine fresh air and *tranquility*
-+ Be immersed in learning how to build software products that solve real problems and people love using!
-+ Spend time with *great* people
++ Escape the city noise/smog, get some sunshine fresh air and tranquility
++ Learn how to build software products that solve real problems and people love using!
++ Spend time with great people
 
 # Who?
 
-A bunch of *awesome* people who love to solve challenging real-world problems using code!
-
-These people either:
-+ Already work on dwyl client projects at the moment   OR
-+ Want to work together on dwyl products for the two weeks
-
-For an up to date list of people who have confirmed they're coming, please check:  #TODO
+Inês, Nelson, Eduardo (Nelson's cousin) and a bunch of *awesome* people who
+love to solve challenging real-world problems using code!
 
 # What?
 
-A Startup (Ideation, Product Development & Coding) Intensive Like No Other (because again, we're all pretty awesome)!
+A Startup (Ideation, Product Development & Coding) Bootcamp Like No Other!
 
-# When & Where?
+## Location - Sun, Fresh Air & Fresh Food *Guaranteed*
 
-### Dates
-
-**Overall dates:** Saturday 17th September - Sunday 2nd October.
-
-**Key Dates so far:**
-+ Saturday 17th September - Grape picking at a vineyard a half hour drive from Porto
-+ Monday 19th September - Product ideation workshop (hopefully led by the inimitable [@harrygfox](http://www.github.com/harrygfox) along with [Ines](http://www.twitter.com/iteles) & [Nelson](http://www.github.com/nelsonic))
-+ At some point in the two weeks to be agreed by group - a day off mid-week to boat to the mini waterfall area for a picnic
-
-### Location - Fresh Air & Fresh Food *Guaranteed*
-
-**Mountains, Lake & Forest**
+### Batch 1 - July  [Saturday 11th July - Friday 24th July (morning)] Mountains, Lake & Forest
 
 ![geres-panorama](https://cloud.githubusercontent.com/assets/194400/8037829/f4ad88f2-0df7-11e5-8590-092cf12a0c0f.png)
 
@@ -53,9 +35,21 @@ You will be staying in a large lake-side house which catches the sun all morning
 + Decent Internet
 + Hidden amongst trees, a 30 second walk from nature
 + 1 minute walk down to the lake
-+ 20 min walk or 5 min boat/car ride to shops with essentials (fresh produce, drinks and snacks)
++ 20 min walk or 5 min boat ride to shops with essentials (fresh produce, drinks and snacks)
 + 1h drive to Porto, the 'capital of the North'
-+ Access to a rib for transport on the lake
+
+### Batch 2 - August  [Monday 10th August - Sunday 23rd August] Beach, Pool & Beautiful City
+
+![carcavelos-beach](https://cloud.githubusercontent.com/assets/194400/8037756/a6a55252-0df7-11e5-9980-9ec9fe4b3a68.jpeg)
+
+Just outside Lisbon is a Beach Town where the Sun shines and the waves roll in.
+You will be staying in a large quiet/comfortable apartment with:
++ 100Mb Fibre Internet
++ Swimming Pool
++ 2 min walk from great food (restaurants and fresh produce/super market)
++ 5 mins walk from the beach (we have surf boards and wet suits)
++ 5 min walk to the Train (Cascais - Lisbon line)
++ Access to a car if you want to go on a longer adventure!
 
 ## Not Just Coding (*after/between coding activities*)
 
@@ -65,31 +59,33 @@ You will be staying in a large lake-side house which catches the sun all morning
 + Incredible fresh bread
 + Green/fruit smoothies
 + Vegan option at every meal
-+ Fresh line-caught fish & grilled beef/lamb (*for those who eat it*)
++ Fresh line-caught fish & grilled grass-fed beef/lamb (*for those who eat it*)
 
-### Pretty good chance of sunshine
 
-Or at least a much better chance than London: 
+### Sunshine Guaranteed
+
+The summer in Portugal is "*Goldilocks*"
 
 ![portugal-sunshine-index](https://cloud.githubusercontent.com/assets/194400/8038866/f59c4de2-0dfd-11e5-957b-7e92396f10a3.png)
 
 
 ### Fresh Air
 
-The house is surrounded by a forest so the air quality is good.
+Both locations are next to forests so the air quality is good.
 
 ### *Action Packed or Super Chilled* Activities
 
 There are *many* other awesome activities we can do:
 
-+ ALL the Board Games you could ever hope for! 
-+ Snooker, Foosball, Pingpong, Darts
++ ALL the Board Games you could ever hope for! [ @iteles to list games? ]
++ Snooker, Foosball, Pingpong, Darts, etc (*batch 1 only*)
 + Climbing
 + Kayaking
-+ Yoga/Pilates (we *will* be doing this, but self-led)
++ Yoga/Pilates
 + Reading & Relaxing
 + Mountain or Quad Biking
-+ Water sports aplenty 
++ Segways (*batch 2 only*)
++ Quadcopter ("drone") flying (see: https://github.com/dwyl/summer-2015/issues/4)
 
 These will be voted on by the people who join in!
 
@@ -106,12 +102,13 @@ How many are open-source, revenue funded, customer-lead and extensible?
 
 ### What You Should *Expect*
 
-> *Expect* a fun learning experience in a beautifully peaceful location surrounded by great people
+> *Expect* to Learn more in 2 Weeks than a Year of University.
 
 #### Specifically:
 
 + Guidance & Mentoring at *Every Step*
-+ Daily pairing, code review and insights 
++ Daily pairing, code review and insights from people who have
+built some of the most successful apps
 + Every line you write will be ***100% Open Source*** so you
 can refer back to it as portfolio work in the future (*and get nice "green squares" on GitHub)
 
@@ -119,7 +116,7 @@ can refer back to it as portfolio work in the future (*and get nice "green squar
 
 + Scalable Test-Driven Real-time Applications (*from first principals*)
 + Mobile first
-+ Progressive Enhancement (*start with* ***Zero JS*** (*SEO-Friendly*) *up to slick* 
++ Progressive Enhancement (*start with* ***Zero JS*** (*SEO-Friendly*) *up to slick* [***Famous UI***](http://famous.org/))
 + Micro/Nano-Service Architecture (*small inter-operable pieces*)
 + Web Components using a micro (4kb) *full-stack framework*
 + Search Engine Optimization (SEO)
