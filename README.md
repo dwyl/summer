@@ -57,7 +57,7 @@ You will be staying in a large lake-side house which catches the sun all morning
 + 1h drive to Porto, the 'capital of the North'
 + Access to a rib for transport on the lake
 
-**Saturday 17th September**
+**Saturday 17th September**    
 Strong possibility that we'll catch the last day of grape picking here (if people want to have a go): https://www.google.co.uk/maps/place/Mosteiro+de+Santa+Maria+de+Landim/@41.3794726,-8.4665606,17z/data=!3m1!4b1!4m5!3m4!1s0xd24f61285cbd035:0xf11ff2ba637bd6f1!8m2!3d41.3794686!4d-8.4643719
 ![mosteiro de landim - vista tipica](https://cloud.githubusercontent.com/assets/4185328/17987467/0b91016a-6b18-11e6-84ee-0ffbefdd482b.JPG)
 
@@ -142,3 +142,15 @@ can refer back to it as portfolio work in the future (*and get nice "green squar
 
 + The Mythical Man-Month: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 (*why adding more people to a project can make it slower...*)
+
+
+##   Useful Information (WiP)
+
+### Airport transfers
+It's a drive, so we've tapped up some friends in the area for _mates rates_ which are better than average but still _money_. These prices **include a stop at the local supermarket for food shopping**.
+They are Porto airport <-> the door of the house and **one way**:
+* €120 for **up to eight people** (€15 each) - jeep with trailer for luggage and shopping
+* €70 for **up to four people** (€17.50 each) - standard car 
+
+It's _possible_ by public transport but will take a few hours, involve various types of transport (tube, train, bus) and won't be particularly easy to navigate (you'll get English speakers in the train stations, but unlikely on buses!).
+
