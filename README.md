@@ -19,7 +19,7 @@ A bunch of *awesome* people who love to solve challenging real-world problems us
 
 These people either:
 + Already work on dwyl client projects at the moment   OR
-+ Want to work together on dwyl products for the two weeks
++ Want to work and learn together on dwyl products for the two weeks (paid at your current project day rate!)
 
 For an up to date list of people who have confirmed they're coming, please check the sheet in the gitter channel!
 
