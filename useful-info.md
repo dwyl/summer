@@ -22,7 +22,7 @@
 + [Activities and the surrounding area](#activities) (weekends and afternoons off)
 
 <br/>
-###Cash
+### Cash
 We _recommend_ you _**order online for the best exchange rates**_, but if you forget, use https://www.iceplc.com/ ("click & collect")
 + Visit the page for the airport you are flying out from and print off the "voucher" (_the web page_) - make a note of where the ice counter is in the airport.
 + Take the print out with you and exchange your GBP for EUR at the airport.
@@ -34,37 +34,37 @@ _Note: If you have any euros left at the end of your trip, we'll happily buy the
 + Airport transfers
 + Money for activities
 
-###Freelance agreements
+### Freelance agreements
 Whilst you're out in Portugal, you will be freelancing, so we've put together some [freelance agreements](/freelance-agreements) to **_clarify_ several questions** we have been asked by potential contributors to dwyl projects.    
 Please take a look, raise any issues you may have with them and when you're happy to, please sign them and send them to [@iteles](https://gitter.im/iteles). We can't start work until these are signed!
 <br/>
 <br/>
 
-##Lisbon flat [10th - 23rd August 2015]
+## Lisbon flat [10th - 23rd August 2015]
 ![carcavelos-beach](https://cloud.githubusercontent.com/assets/194400/8037756/a6a55252-0df7-11e5-9980-9ec9fe4b3a68.jpeg)
 
-###Location
+### Location
 The flat is in [Carcavelos](https://www.google.co.uk/maps/place/R.+Fern%C3%A3o+de+Magalh%C3%A3es+7,+2775-597+Carcavelos,+Portugal/@38.6866157,-9.3450495,17z/data=!3m1!4b1!4m2!3m1!1s0xd1ec8c7ffe3d1e1:0x8786062503ed8cc2), a coastal suburb of Lisbon.
 
 It's a 10 minute walk from the Carcavelos train station and an 8 minute walk to [the beach](https://www.google.pt/search?q=carcavelos+beach&espv=2&biw=1563&bih=928&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAYQ_AUoAWoVChMIr46A1p37xgIVTG8UCh3TWQB-)! Doesn't hurt that our block of flats has a swimming pool either...
 
-###Dates
+### Dates
 We can't really accommodate arrivals before 9th August, but if you want/need to stay for a couple of days after the 23rd, that won't be an issue.
 
-###Internet conditions
+### Internet conditions
 100MB fibre broadband, but with so many of us there at the same time, we'll have to make sure that there is **no streaming (music or video) or bittorrenting** so people can work.     
 Please sort yourself out with an **offline playlist** before you go!
 
-###Airport transfers
+### Airport transfers
 You can catch a [bus (0 changes) or the tube (1 change)](http://www.ana.pt/en-US/Aeroportos/lisboa/Lisboa/PlanYourTrip/Public-Transport/Pages/Public-Transport.aspx) from Lisbon airpot to Cais do Sodré train station - we would recommend the bus as you get to see some of Lisbon too!    
 In Cais do Sodré, catch a train to **Carcavelos**, drop @iteles a text with your departure time and we'll meet you at the station. 
 
-###Public transport
+### Public transport
 We're a 10 minute walk from the train station and trains into Lisbon (Cais do Sodré) run roughly every 10-20 minutes ([timetable here](http://www.cp.pt/StaticFiles/Passageiros/1_horarios/horarios/PDF/lx/linha_cascais.pdf)).   
 
 You can catch the tube or buses from Cais do Sodré to pretty much anywhere in Lisbon. It's a pretty sweet deal!
 
-###Food shopping
+### Food shopping
 We're _round the corner_ from the supermarket.
 
 We recommend:
@@ -74,7 +74,7 @@ We recommend:
 
 _**A simple dinner on the Sunday is on us, so don't worry about the day you arrive!**_
 
-###Recommended clothing
+### Recommended clothing
 It's a city so your usual everyday clothing will do just fine! 
 
 Temperatures are expected to be [in the mid-high 20s and low 30s](http://www.accuweather.com/pt/pt/lisbon/274087/august-weather/274087) with clear skies. Sometimes it gets a little breezy at night, so you'll want to bring something to throw over the top of what you're wearing. 
@@ -91,7 +91,7 @@ Temperatures are expected to be [in the mid-high 20s and low 30s](http://www.acc
   + A couple of jumpers/cardigans/something to throw over your clothes when it gets cold
   + **Sun Screen** (buy/bring/wear) at all times to avoid nasty burns! (_tip: buy @Airport Boots after security checks to avoid carryon liquid limits_)
 
-###Activities
+### Activities
 These will be voted on by the people who join in! 
 
 _Free activities:_
@@ -110,22 +110,22 @@ _Paid activities:_
 
 
 
-##Lakehouse [11th -24th July 2015]
+## Lakehouse [11th -24th July 2015]
 ![july-team-dwyl](https://cloud.githubusercontent.com/assets/4185328/8909647/639f00a8-347a-11e5-866d-44aed4284b64.jpg)
 
-###Location
+### Location
 The house is situated in Rio Caldo, on the lake formed by the [Barragem da Caniçada](https://www.google.co.uk/maps?q=barragem+da+cani%C3%A7ada&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.96339352,d.bGg&biw=1536&bih=928&dpr=2&um=1&ie=UTF-8&sa=X&ei=Z5-EVbahK8TW7AbH7KuwCA&ved=0CAYQ_AUoAQ), a dam crossing the Cávado River.    
 [Here it is on a map](https://www.google.co.uk/maps/place/41%C2%B039'44.9%22N+8%C2%B011'18.9%22W/@41.6615913,-8.1873262,14z/data=!4m2!3m1!1s0x0d251e5a005f7d79:0xa51e530a1036cba5).
 
-###Internet conditions
+### Internet conditions
 It's a bit remote, so the internet connection isn't particularly amazing. With so many of us there at the same time, we'll have to make sure that there is **no streaming (music or video) or bittorrenting** so people can work.     
 Please sort yourself out with an **offline playlist** before you go!
 
-###Dates
+### Dates
 The dates are quite tight on this one and the house is really only available for the dates in question. We have to **leave the house in the morning** of Friday 24th, so we don't expect this to be a work day.    
 If you want to arrive early or leave late, we recommend that you try banding together and crowding into an [airbnb flat in Porto](https://www.airbnb.co.uk/s/Porto--Portugal) or finding a great hostel (Porto has some of the [best hostels](http://www.hostelworld.com/hosteldetails.php/Yes-Porto-Hostel/Porto/56163) [in the world](http://www.hostelworld.com/hosteldetails.php/Tattva-Design-Hostel/Porto/60189)) - taking a day out to visit this beautiful city is certainly not a _bad_ thing either!
 
-###Airport transfers
+### Airport transfers
 It's a drive, so we've tapped up some friends in the area for _mates rates_ which are better than average but still _money_. These prices **include a stop at the local supermarket for [food shopping](#food-shopping)**.
 They are Porto airport <-> the door of our house and **one way**:
 * €120 for **up to eight people** (€15 each) - jeep with trailer for luggage and shopping
@@ -133,7 +133,7 @@ They are Porto airport <-> the door of our house and **one way**:
 
 It's _possible_ by public transport but will take a few hours, involve various types of transport (tube, train, bus) and won't be particularly easy to navigate (you'll get English speakers in the train stations, but unlikely on buses!).
 
-###Food shopping
+### Food shopping
 The **closest full on supermarket (probably the size of 2 Tesco Metros) is a 20 minute drive from the house**. You won't find much specialty stuff here (out of the ordinary vegetables, superfoods or a huge organics section are pipe dreams) but all standard supermarket stuff and in-season fruit and vegetables are all available.        
 There's a **little grocery store with every day essentials** 5 minutes drive from the house.
 
@@ -151,7 +151,7 @@ We recommend:
 _**Dinner on the Saturday is on us, so don't worry about the day you arrive!**_
 
 
-###Recommended clothing
+### Recommended clothing
 We expect everything to be very casual (we're pretty far from anywhere _fancy_) and you'll probably end up **swimming or in the water pretty much every day**. Remember to bring clothing for [any other activities](#activities) you may want to participate in.
 
 It gets a little colder at night, so you'll want to bring something to throw over the top of what you're wearing. There may be a couple of foggy days!
@@ -168,7 +168,7 @@ It gets a little colder at night, so you'll want to bring something to throw ove
   + A couple of jumpers/cardigans/something to throw over your clothes when it gets cold
   + **Sun Screen** (buy/bring/wear) at all times to avoid nasty burns! (_tip: buy @Airport Boots after security checks to avoid carryon liquid limits_)
 
-###Activities
+### Activities
 These will be voted on by the people who join in! 
 
 _Free activities:_
