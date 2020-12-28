@@ -1,14 +1,12 @@
-#Summer of DWYL 2015 *Code of Conduct*
-
-<img align="right" src="http://social.beefeater.co.uk/assets/family-portrait/img/explanation/mr-happy.png"/>
+# Summer of DWYL 2015 *Code of Conduct*
 
 0. The [***Golden Rule***](https://en.wikipedia.org/wiki/Golden_Rule): treat others as one would like others to treat oneself.
 
-1. **Be happy.** We're surrounding ourselves with sun, sea/forest, fresh/healthy food and great people so good vibes are mandatory (read: almost unavoidable).
+1. **Be happy.** We're surrounding ourselves with the sun, sea/forest, fresh/healthy food and great people so good vibes are mandatory (read: almost unavoidable).
 
 2. **Be respectful of other people's working hours.** It's an awesome place but we're here to work as well as relax and enjoy the beautiful surroundings. People may be working when you're relaxing and vice versa so keep that in mind!
 
-3. **Be tidy.** Common sense/courtesy apply here - always clean any mess on counters/floors, wash dishes/cultery you use and leave things as you find them (or better!).
+3. **Be tidy.** Common sense/courtesy apply here - always clean any mess on counters/floors, wash dishes/cutlery you use and leave things as you find them (or better!).
 
 4. **Keep the noise levels down.** Avoid being super loud, especially during the group's established working hours or after 22h00.
 
@@ -24,10 +22,10 @@
 
 10. **We're here to help!** If there's anything you need, just ask!
 
-11. **Recycle**. Both locations have recycling points nearby. Separate waste into recycleable and non-recycleable. If in doubt, *ask*!
+11. **Recycle**. Both locations have recycling points nearby. Separate waste into recyclable and non-recyclable. If in doubt, *ask*!
 
-12. **Take & Share _LOTS_ of _Photos_**: Please take lots of lovely lovely photos (*and videos*!) and post them to your favourite social networks.
+12. **Take & Share _LOTS_ of _Photos_**: Please take lots of lovely photos (*and videos*!) and post them to your favourite social networks.
 Hashtags: #dwyl #Summer2015
 (*always ask for people's permission before posting a photo of them*)
 
-13. **Buy/Use/Wear _Sun Screen_**: The Sun is Strong, you will *burn* if you aren't careful! Buy factor 50+ sun block/cream in Boots (*after security control*) *before* you leave London! Write your name on it with a sharpie so you don't lose it. And apply *generously* & *regularly*.
+13. **Buy/Use/Wear _Sun Screen_**: The Sun is Strong, you will *burn* if you aren't careful! Buy factor 50+ sunblock/cream in Boots (*after security control*) *before* you leave London! Write your name on it with a sharpie so you don't lose it. And apply *generously* & *regularly*.
